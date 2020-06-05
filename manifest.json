@@ -1,0 +1,9 @@
+{
+    "name": "Whoohoo",
+    "blocks": {
+        "/blockchain/klaytn": true,
+        "/blockchain/klaytn/solidity": true,
+        "/framework/vanilla": true,
+        "/category/file_storage": false
+    }
+}
